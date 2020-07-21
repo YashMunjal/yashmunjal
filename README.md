@@ -15,8 +15,7 @@
 - 🕺 Fun Fact: I have Dance too as my hobby
 
 ## Contact Me
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/yashmunjal45/)  [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="3.5%" alt="Sourcerer">](https://sourcerer.io/yashmunjal) 
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"" width="3.5%" alt="Sourcerer">](https://instagram.com/yashmunjal45)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/yashmunjal45/)  [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="3.5%" alt="Sourcerer">](https://sourcerer.io/yashmunjal) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/yashmunjal45)
 
 ## Crunching The Numbers
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashmunjal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
