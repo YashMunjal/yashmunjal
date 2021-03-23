@@ -6,7 +6,6 @@
 - 💕  Fullstack Developer, love to read and try new stack
 - ✔ Joint Secretory at [ACM-CIET](https://acm.chitkara.edu.in)
 - 🤞 T-Based Developer, currently working on 3-D Ux designs
-- 💻 Web Developer at Finnrooms and MDG tech.
 - ✨   Organization Admin [@chitkara-devs ](https://github.com/orgs/Chitkara-devs/)
 - 👨‍💻 Ex web dev [IEI-CUIET](https://www.chitkara.edu.in/ieindia/) 
 - 👨‍🏫 Mentor Students to write quality code
